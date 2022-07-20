@@ -32,9 +32,9 @@ export const LoginForm: FC<Props> = ({ children, onSubmit, isLoggingIn, password
       <Form onSubmit={onSubmit} validateOn="onChange">
         {({ register, errors }) => (
           <>
-            <Field label="Email or username" invalid={!!errors.user} error={errors.user?.message}>
+            <Field label="メール or ユーザー名" invalid={!!errors.user} error={errors.user?.message}>
               <Input
-                {...register('user', { required: 'Email or username is required' })}
+                {...register('user', { required: 'メールかユーザー名を入力してください' })}
                 autoFocus
                 autoCapitalize="none"
                 placeholder={loginHint}
@@ -46,7 +46,7 @@ export const LoginForm: FC<Props> = ({ children, onSubmit, isLoggingIn, password
                 id="current-password"
                 autoComplete="current-password"
                 passwordHint={passwordHint}
-                {...register('password', { required: 'Password is required' })}
+                {...register('password', { required: 'パスワードを入力してください' })}
               />
             </Field>
             <Button
@@ -55,7 +55,7 @@ export const LoginForm: FC<Props> = ({ children, onSubmit, isLoggingIn, password
               className={submitButton}
               disabled={isLoggingIn}
             >
-              {isLoggingIn ? 'Logging in...' : 'Log in'}
+              {isLoggingIn ? 'Logging in...' : 'ログイン'}
             </Button>
             {children}
           </>
