@@ -332,7 +332,7 @@ msgstr "Plugins"
 
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.profile/password"
-msgstr "Change password"
+msgstr "パスワード変更"
 
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.profile/settings"
@@ -341,10 +341,10 @@ msgstr "Preferences"
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.service-accounts"
 msgstr "Service accounts"
-
+ÍÍ
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.sign-out"
-msgstr "Sign out"
+msgstr "ログアウト"
 
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.snapshots"

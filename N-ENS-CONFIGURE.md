@@ -1,5 +1,13 @@
 # Configure
 
+## Most of things
+
+### need run `yarn start` again
+
+```bash
+/locals/[LANGUAGE]/message.po
+```
+
 ## Login Page
 
 ```bash
