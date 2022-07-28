@@ -55,7 +55,7 @@ export const LoginPage: FC = () => {
                           fill="text"
                           href={`${config.appSubUrl}/user/password/send-reset-email`}
                         >
-                          Forgot your password?
+                          ユーザID・パスワードを忘れた場合
                         </LinkButton>
                       </HorizontalGroup>
                     ) : (
