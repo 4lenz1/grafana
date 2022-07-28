@@ -1291,7 +1291,7 @@ export const mockNavModel: NavIndex = {
       },
       {
         id: 'change-password',
-        text: 'Change password',
+        text: 'パスワード変更',
         icon: 'lock',
         url: '/profile/password',
       },
@@ -1325,7 +1325,7 @@ export const mockNavModel: NavIndex = {
         },
         {
           id: 'change-password',
-          text: 'Change password',
+          text: 'パスワード変更',
           icon: 'lock',
           url: '/profile/password',
         },
@@ -1342,7 +1342,7 @@ export const mockNavModel: NavIndex = {
   },
   'change-password': {
     id: 'change-password',
-    text: 'Change password',
+    text: 'パスワード変更',
     icon: 'lock',
     url: '/profile/password',
     parentItem: {
@@ -1360,7 +1360,7 @@ export const mockNavModel: NavIndex = {
         },
         {
           id: 'change-password',
-          text: 'Change password',
+          text: 'パスワード変更',
           icon: 'lock',
           url: '/profile/password',
         },
@@ -1397,7 +1397,7 @@ export const mockNavModel: NavIndex = {
         },
         {
           id: 'change-password',
-          text: 'Change password',
+          text: 'パスワード変更',
           icon: 'lock',
           url: '/profile/password',
         },
