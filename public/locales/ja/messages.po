@@ -341,7 +341,7 @@ msgstr "Preferences"
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.service-accounts"
 msgstr "Service accounts"
-ÍÍ
+
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.sign-out"
 msgstr "ログアウト"
