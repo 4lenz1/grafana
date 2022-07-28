@@ -58,7 +58,7 @@ const TRANSLATED_MENU_ITEMS: Record<string, MessageDescriptor> = {
   help: defineMessage({ id: 'nav.help', message: 'Help' }),
 
   'profile-settings': defineMessage({ id: 'nav.profile/settings', message: 'Preferences' }),
-  'change-password': defineMessage({ id: 'nav.profile/password', message: 'Change password' }),
+  'change-password': defineMessage({ id: 'nav.profile/password', message: 'パスワード 変更' }),
   'sign-out': defineMessage({ id: 'nav.sign-out', message: 'Sign out' }),
 };
 

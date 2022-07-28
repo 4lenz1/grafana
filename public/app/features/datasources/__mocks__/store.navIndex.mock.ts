@@ -2437,7 +2437,7 @@ export const navIndex: NavIndex = {
       },
       {
         id: 'change-password',
-        text: 'Change password',
+        text: 'パスワード 変更',
         icon: 'lock',
         url: '/profile/password',
       },
@@ -2478,7 +2478,7 @@ export const navIndex: NavIndex = {
         },
         {
           id: 'change-password',
-          text: 'Change password',
+          text: 'パスワード 変更',
           icon: 'lock',
           url: '/profile/password',
         },
@@ -2520,7 +2520,7 @@ export const navIndex: NavIndex = {
         },
         {
           id: 'change-password',
-          text: 'Change password',
+          text: 'パスワード 変更',
           icon: 'lock',
           url: '/profile/password',
         },
@@ -2537,7 +2537,7 @@ export const navIndex: NavIndex = {
   },
   'change-password': {
     id: 'change-password',
-    text: 'Change password',
+    text: 'パスワード 変更',
     icon: 'lock',
     url: '/profile/password',
     parentItem: {
@@ -2562,7 +2562,7 @@ export const navIndex: NavIndex = {
         },
         {
           id: 'change-password',
-          text: 'Change password',
+          text: 'パスワード 変更',
           icon: 'lock',
           url: '/profile/password',
         },
@@ -2606,7 +2606,7 @@ export const navIndex: NavIndex = {
         },
         {
           id: 'change-password',
-          text: 'Change password',
+          text: 'パスワード 変更',
           icon: 'lock',
           url: '/profile/password',
         },
