@@ -336,7 +336,7 @@ msgstr "Import"
 
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.dashboards"
-msgstr "ダッシュボードたち"
+msgstr "ダッシュボード"
 
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.datasources"
