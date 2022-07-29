@@ -73,7 +73,7 @@ export const enrichConfigItems = (
         ...menuItems,
         {
           id: 'switch-organization',
-          text: 'Switch organization',
+          text: '組織',
           icon: 'arrow-random',
           onClick: toggleOrgSwitcher,
         },
