@@ -12,7 +12,7 @@ import { getUserOrganizations, setUserOrganization } from './state/actions';
 const navModel = {
   main: {
     icon: 'grafana',
-    subTitle: 'Preferences',
+    subTitle: 'プロフィール',
     text: 'Select active organization',
   },
   node: {
