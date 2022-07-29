@@ -2431,7 +2431,7 @@ export const navIndex: NavIndex = {
       },
       {
         id: 'notifications',
-        text: 'Notification history',
+        text: '操作履歴',
         icon: 'bell',
         url: '/notifications',
       },
@@ -2472,7 +2472,7 @@ export const navIndex: NavIndex = {
         },
         {
           id: 'notifications',
-          text: 'Notification history',
+          text: '操作履歴',
           icon: 'bell',
           url: '/notifications',
         },
@@ -2495,7 +2495,7 @@ export const navIndex: NavIndex = {
   },
   notifications: {
     id: 'notifications',
-    text: 'Notification history',
+    text: '操作履歴',
     icon: 'bell',
     url: '/notifications',
     parentItem: {
@@ -2514,7 +2514,7 @@ export const navIndex: NavIndex = {
         },
         {
           id: 'notifications',
-          text: 'Notification history',
+          text: '操作履歴',
           icon: 'bell',
           url: '/notifications',
         },
@@ -2556,7 +2556,7 @@ export const navIndex: NavIndex = {
         },
         {
           id: 'notifications',
-          text: 'Notification history',
+          text: '操作履歴',
           icon: 'bell',
           url: '/notifications',
         },
@@ -2600,7 +2600,7 @@ export const navIndex: NavIndex = {
         },
         {
           id: 'notifications',
-          text: 'Notification history',
+          text: '操作履歴',
           icon: 'bell',
           url: '/notifications',
         },

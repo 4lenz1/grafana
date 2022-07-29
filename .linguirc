@@ -20,11 +20,11 @@
     }
   ],
   "fallbackLocales": {
-    "pseudo-LOCALE": "en",
-    "default": "en"
+    "pseudo-LOCALE": "ja",
+    "default": "ja"
   },
   "pseudoLocale": "pseudo-LOCALE",
-  "sourceLocale": "en",
+  "sourceLocale": "ja",
   "format": "po",
   "formatOptions": {
     "lineNumbers": false
