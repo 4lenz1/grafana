@@ -46,7 +46,7 @@ const TRANSLATED_MENU_ITEMS: Record<string, MessageDescriptor> = {
   users: defineMessage({ id: 'nav.users', message: 'Users' }),
   teams: defineMessage({ id: 'nav.teams', message: 'Teams' }),
   plugins: defineMessage({ id: 'nav.plugins', message: 'Plugins' }),
-  'org-settings': defineMessage({ id: 'nav.org-settings', message: 'Preferences' }),
+  'org-settings': defineMessage({ id: 'nav.org-settings', message: 'プロフィール' }),
   apikeys: defineMessage({ id: 'nav.api-keys', message: 'API keys' }),
   serviceaccounts: defineMessage({ id: 'nav.service-accounts', message: 'Service accounts' }),
 
@@ -57,7 +57,7 @@ const TRANSLATED_MENU_ITEMS: Record<string, MessageDescriptor> = {
 
   help: defineMessage({ id: 'nav.help', message: 'Help' }),
 
-  'profile-settings': defineMessage({ id: 'nav.profile/settings', message: 'Preferences' }),
+  'profile-settings': defineMessage({ id: 'nav.profile/settings', message: 'プロフィール' }),
   'change-password': defineMessage({ id: 'nav.profile/password', message: 'パスワード 変更' }),
   'sign-out': defineMessage({ id: 'nav.sign-out', message: 'Sign out' }),
 };

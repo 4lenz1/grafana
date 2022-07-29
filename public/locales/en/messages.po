@@ -388,7 +388,7 @@ msgstr "New folder"
 
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.org-settings"
-msgstr "Preferences"
+msgstr "プロフィール"
 
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.playlists"
@@ -404,7 +404,7 @@ msgstr "パスワード変更"
 
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.profile/settings"
-msgstr "Preferences"
+msgstr "プロフィール"
 
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.service-accounts"
@@ -512,7 +512,7 @@ msgstr "Light"
 
 #: public/app/core/components/SharedPreferences/SharedPreferences.tsx
 msgid "shared-preferences.title"
-msgstr "Preferences"
+msgstr "プロフィール"
 
 #: public/app/features/profile/UserOrganizations.tsx
 msgid "user-orgs.current-org-button"

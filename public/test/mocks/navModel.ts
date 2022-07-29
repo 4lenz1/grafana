@@ -753,7 +753,7 @@ export const mockNavModel: NavIndex = {
       },
       {
         id: 'org-settings',
-        text: 'Preferences',
+        text: 'プロフィール',
         icon: 'sliders-v-alt',
         url: '/org',
       },
@@ -804,7 +804,7 @@ export const mockNavModel: NavIndex = {
         },
         {
           id: 'org-settings',
-          text: 'Preferences',
+          text: 'プロフィール',
           icon: 'sliders-v-alt',
           url: '/org',
         },
@@ -856,7 +856,7 @@ export const mockNavModel: NavIndex = {
         },
         {
           id: 'org-settings',
-          text: 'Preferences',
+          text: 'プロフィール',
           icon: 'sliders-v-alt',
           url: '/org',
         },
@@ -908,7 +908,7 @@ export const mockNavModel: NavIndex = {
         },
         {
           id: 'org-settings',
-          text: 'Preferences',
+          text: 'プロフィール',
           icon: 'sliders-v-alt',
           url: '/org',
         },
@@ -960,7 +960,7 @@ export const mockNavModel: NavIndex = {
         },
         {
           id: 'org-settings',
-          text: 'Preferences',
+          text: 'プロフィール',
           icon: 'sliders-v-alt',
           url: '/org',
         },
@@ -975,7 +975,7 @@ export const mockNavModel: NavIndex = {
   },
   'org-settings': {
     id: 'org-settings',
-    text: 'Preferences',
+    text: 'プロフィール',
     icon: 'sliders-v-alt',
     url: '/org',
     parentItem: {
@@ -1012,7 +1012,7 @@ export const mockNavModel: NavIndex = {
         },
         {
           id: 'org-settings',
-          text: 'Preferences',
+          text: 'プロフィール',
           icon: 'sliders-v-alt',
           url: '/org',
         },
@@ -1064,7 +1064,7 @@ export const mockNavModel: NavIndex = {
         },
         {
           id: 'org-settings',
-          text: 'Preferences',
+          text: 'プロフィール',
           icon: 'sliders-v-alt',
           url: '/org',
         },
@@ -1285,7 +1285,7 @@ export const mockNavModel: NavIndex = {
     children: [
       {
         id: 'profile-settings',
-        text: 'Preferences',
+        text: 'プロフィール',
         icon: 'sliders-v-alt',
         url: '/profile',
       },
@@ -1307,7 +1307,7 @@ export const mockNavModel: NavIndex = {
   },
   'profile-settings': {
     id: 'profile-settings',
-    text: 'Preferences',
+    text: 'プロフィール',
     icon: 'sliders-v-alt',
     url: '/profile',
     parentItem: {
@@ -1319,7 +1319,7 @@ export const mockNavModel: NavIndex = {
       children: [
         {
           id: 'profile-settings',
-          text: 'Preferences',
+          text: 'プロフィール',
           icon: 'sliders-v-alt',
           url: '/profile',
         },
@@ -1354,7 +1354,7 @@ export const mockNavModel: NavIndex = {
       children: [
         {
           id: 'profile-settings',
-          text: 'Preferences',
+          text: 'プロフィール',
           icon: 'sliders-v-alt',
           url: '/profile',
         },
@@ -1391,7 +1391,7 @@ export const mockNavModel: NavIndex = {
       children: [
         {
           id: 'profile-settings',
-          text: 'Preferences',
+          text: 'プロフィール',
           icon: 'sliders-v-alt',
           url: '/profile',
         },

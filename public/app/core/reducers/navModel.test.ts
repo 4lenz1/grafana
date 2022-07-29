@@ -47,7 +47,7 @@ describe('navModelReducer', () => {
       const users = { id: 'users', text: 'Users' };
       const teams = { id: 'teams', text: 'Teams' };
       const plugins = { id: 'plugins', text: 'Plugins' };
-      const orgsettings = { id: 'org-settings', text: 'Preferences' };
+      const orgsettings = { id: 'org-settings', text: 'プロフィール' };
       const apikeys = { id: 'apikeys', text: 'API Keys' };
 
       const initialState = {
