@@ -133,7 +133,7 @@ class UnThemedRichHistory extends PureComponent<RichHistoryProps> {
     };
 
     const StarredTab: TabConfig = {
-      label: 'Starred',
+      label: 'お気に入り',
       value: Tabs.Starred,
       content: (
         <RichHistoryStarredTab

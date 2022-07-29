@@ -420,7 +420,7 @@ msgstr "Snapshots"
 
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.starred"
-msgstr "Starred"
+msgstr "お気に入り"
 
 #: public/app/core/components/NavBar/navBarItem-translations.ts
 msgid "nav.starred-empty"

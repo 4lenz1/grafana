@@ -18,7 +18,7 @@ const TRANSLATED_MENU_ITEMS: Record<string, MessageDescriptor> = {
   import: defineMessage({ id: 'nav.create-import', message: 'Import' }),
   alert: defineMessage({ id: 'nav.create-alert', message: 'New alert rule' }),
 
-  starred: defineMessage({ id: 'nav.starred', message: 'Starred' }),
+  starred: defineMessage({ id: 'nav.starred', message: 'お気に入り' }),
   'starred-empty': defineMessage({ id: 'nav.starred-empty', message: 'Your starred dashboards will appear here' }),
   dashboards: defineMessage({ id: 'nav.dashboards', message: 'Dashboards' }),
   'dashboards/browse': defineMessage({ id: 'nav.manage-dashboards', message: 'Browse' }),
