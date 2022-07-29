@@ -36,7 +36,7 @@ func (hs *HTTPServer) getProfileNode(c *models.ReqContext) *dtos.NavLink {
 
 	children := []*dtos.NavLink{
 		{
-			Text: "Preferences", Id: "profile/settings", Url: hs.Cfg.AppSubURL + "/profile", Icon: "sliders-v-alt",
+			Text: "プロフィール", Id: "profile/settings", Url: hs.Cfg.AppSubURL + "/profile", Icon: "sliders-v-alt",
 		},
 	}
 
@@ -189,7 +189,7 @@ func (hs *HTTPServer) getNavTree(c *models.ReqContext, hasEditPerm bool, prefs *
 	dashboardsUrl := "/dashboards"
 
 	navTree = append(navTree, &dtos.NavLink{
-		Text:       "Dashboards",
+		Text:       "ダッシュボード",
 		Id:         "dashboards",
 		SubTitle:   "Manage dashboards and folders",
 		Icon:       "apps",

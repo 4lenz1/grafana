@@ -2550,7 +2550,7 @@ export const navIndex: NavIndex = {
       children: [
         {
           id: 'profile-settings',
-          text: 'Preferences',
+          text: 'プロフィール',
           icon: 'sliders-v-alt',
           url: '/profile',
         },
@@ -2594,7 +2594,7 @@ export const navIndex: NavIndex = {
       children: [
         {
           id: 'profile-settings',
-          text: 'Preferences',
+          text: 'プロフィール',
           icon: 'sliders-v-alt',
           url: '/profile',
         },
